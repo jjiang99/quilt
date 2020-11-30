@@ -29,7 +29,7 @@
     "@shopify/react-hooks": "^1.11.2",
     "@shopify/react-universal-provider": "^1.1.24",
     "@types/accept-language-parser": "1.5.0",
-    "@types/cookie": "^0.3.3",
+    "@types/cookie": "^0.4.0",
     "@types/koa": "^2.0.0",
     "accept-language-parser": "1.5.0",
     "cookie": "^0.4.0",
