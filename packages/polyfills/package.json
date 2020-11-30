@@ -29,7 +29,7 @@
     "browser-unhandled-rejection": "^1.0.2",
     "caniuse-api": "^3.0.0",
     "formdata-polyfill": "^3.0.18",
-    "intersection-observer": "^0.5.1",
+    "intersection-observer": "^0.11.0",
     "intl-pluralrules": "^0.2.1",
     "mutationobserver-shim": "^0.3.3",
     "node-fetch": "^2.3.0",
