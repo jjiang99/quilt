@@ -28,6 +28,6 @@
     "!tsconfig.tsbuildinfo"
   ],
   "dependencies": {
-    "tslib": "^1.14.0"
+    "tslib": "^1.12.0"
   }
 }
