@@ -36,7 +36,7 @@
     "@shopify/dates": "^0.4.3",
     "@shopify/decorators": "^1.1.13",
     "@shopify/function-enhancers": "^1.0.11",
-    "@shopify/i18n": "^0.1.12",
+    "@shopify/i18n": "^0.2.0",
     "@shopify/react-effect": "^3.2.13",
     "@shopify/react-hooks": "^1.11.2",
     "@shopify/useful-types": "^2.2.1",
