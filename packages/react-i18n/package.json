@@ -33,7 +33,7 @@
     "intl-pluralrules": "^0.2.1"
   },
   "dependencies": {
-    "@shopify/dates": "^0.4.3",
+    "@shopify/dates": "^0.5.0",
     "@shopify/decorators": "^1.1.13",
     "@shopify/function-enhancers": "^1.0.11",
     "@shopify/i18n": "^0.1.12",
