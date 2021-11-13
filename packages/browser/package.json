@@ -29,6 +29,6 @@
   ],
   "dependencies": {
     "tslib": "^1.14.1",
-    "ua-parser-js": "^0.7.17"
+    "ua-parser-js": "^0.8.1"
   }
 }
