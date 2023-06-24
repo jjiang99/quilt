@@ -26,7 +26,7 @@
   "dependencies": {
     "@shopify/react-hooks": "^1.11.2",
     "@shopify/useful-types": "^2.2.1",
-    "@shopify/web-worker": "^1.4.2",
+    "@shopify/web-worker": "^3.0.0",
     "tslib": "^1.14.1"
   },
   "peerDependencies": {
